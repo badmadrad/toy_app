@@ -23,7 +23,6 @@ test:
 production:
   adapter: postgresql
   database: 2d7736a8854078b61b61d60262535b92
-  host: localhost
   pool: 5
   user: 11164c92778cd9624e830c3738c12e16
   password: 6015ce377db70b9877a82e58c305da49
