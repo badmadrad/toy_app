@@ -22,9 +22,9 @@ test:
 
 production:
   adapter: postgresql
-  database: c0e73fc463c5a3a4bddf12a95102ddc3
+  database: 2d7736a8854078b61b61d60262535b92
   host: localhost
   pool: 5
-  user: 4d692481e5f4ab4af1a6df43dea56574
-  password: ba395ce70164f54bc9773a8945f116b4
+  user: 11164c92778cd9624e830c3738c12e16
+  password: 6015ce377db70b9877a82e58c305da49
   timeout: 5000
